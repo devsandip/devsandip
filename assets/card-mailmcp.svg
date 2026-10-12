@@ -1,14 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="228" viewBox="0 0 480 228" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="196" viewBox="0 0 480 196" role="img" aria-labelledby="t d">
 <title id="t">mailmcp</title><desc id="d">A self-hosted Gmail MCP server for Claude. Many Google accounts, your own AWS account, about $1 a month.</desc>
 <style></style>
-<rect x="0.5" y="0.5" width="479" height="227" rx="14" fill="#16161A" stroke="#2A2A30"/>
-<text x="28" y="44" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#E07650">// mcp · aws</text>
-<text x="452" y="44" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6E6E77" text-anchor="end">oct 2026</text>
-<text x="27" y="94" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-size="36" fill="#F2F2F4" letter-spacing="-0.01em">mailmcp</text>
-<text x="28" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#9A9AA3">A self-hosted Gmail MCP server for Claude. Many</text>
-<text x="28" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#9A9AA3">Google accounts, your own AWS account, about $1</text>
-<text x="28" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" fill="#9A9AA3">a month.</text>
-<line x1="28" y1="186" x2="452" y2="186" stroke="#2A2A30"/>
-<text x="28" y="210" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6E6E77">typescript</text>
-<text x="452" y="210" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#F2F2F4" text-anchor="end">devsandip/mailmcp ↗</text>
+<rect x="0.5" y="0.5" width="479" height="195" rx="6" fill="#0d1117" stroke="#30363d"/>
+<path transform="translate(20 22)" fill="#8b949e" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>
+<text x="44" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#58a6ff" font-weight="600">mailmcp</text>
+<rect x="421" y="22" width="39" height="20" rx="10" fill="none" stroke="#1f6feb"/>
+<text x="440.5" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#58a6ff" text-anchor="middle" font-weight="500">new</text>
+<text x="44" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">github.com/devsandip/mailmcp</text>
+<text x="20" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">A self-hosted Gmail MCP server for Claude. Many Google</text>
+<text x="20" y="111" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">accounts, your own AWS account, about $1 a month.</text>
+<circle cx="26" cy="168" r="6" fill="#3178c6"/>
+<text x="38" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">TypeScript</text>
+<rect x="318" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="330" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="342" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="354" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="366" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="378" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="390" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="402" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="414" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="426" y="162" width="10" height="10" rx="2" fill="#39d353"/>
+<rect x="438" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<rect x="450" y="162" width="10" height="10" rx="2" fill="#161b22"/>
+<text x="310" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e" text-anchor="end">shipped Oct 2026</text>
 </svg>
