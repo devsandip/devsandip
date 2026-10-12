@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="t d">
+<title id="t">Sandip Dev</title><desc id="d">Product builder, quietly opinionated. I turn coffee into shipped products.</desc>
+<style>@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}.dot{animation:pulse 2.4s ease-in-out infinite}@media (prefers-reduced-motion: reduce){.dot{animation:none}}</style>
+<rect x="0.5" y="0.5" width="959" height="319" rx="16" fill="#0E0E10" stroke="#2A2A30"/>
+<text x="48" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#6E6E77">// product builder, est. 2012</text>
+<circle class="dot" cx="690" cy="53.5" r="3.5" fill="#6B9F4D"/>
+<text x="704" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9A9AA3" letter-spacing="0.06em">AVAILABLE · GUWAHATI, IN</text>
+<text x="44" y="178" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-size="108" fill="#F2F2F4" letter-spacing="-0.02em">Sandip Dev<tspan fill="#E07650">.</tspan></text>
+<text x="48" y="226" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="26" fill="#9A9AA3">I turn coffee into shipped products.</text>
+<line x1="48" y1="262" x2="912" y2="262" stroke="#2A2A30"/>
+<text x="48" y="292" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6E6E77" letter-spacing="0.06em">SENIOR PM · EX-AMAZON · IIM AHMEDABAD · NIT SURAT</text>
+<text x="912" y="292" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6E6E77" text-anchor="end" letter-spacing="0.06em">26.14°N 91.74°E</text>
+</svg>
