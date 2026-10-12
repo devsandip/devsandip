@@ -25,6 +25,6 @@ Also on the bench: [samaritan-os](https://github.com/devsandip/samaritan-os), on
 
 ### Elsewhere
 
-[sandip.dev](https://sandip.dev) · [Blog](https://www.blog.sandip.dev/) · [LinkedIn](https://www.linkedin.com/in/sandipdev) · [Medium](https://sandipdev.medium.com/) · [Drop a message](https://sandip.dev/#/contact)
+[sandip.dev](https://sandip.dev) · [Blog](https://www.blog.sandip.dev/) · [LinkedIn](https://www.linkedin.com/in/devsandip) · [Medium](https://sandipdev.medium.com/) · [Drop a message](https://sandip.dev/#/contact)
 
 <sub>Guwahati, IN. Formerly Dallas, Seattle, Bangalore, and at least three coffee shops you've never heard of.</sub>
